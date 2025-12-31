@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Técnico en Sistemas Informáticos
 
-<!--
-**N1x-afl/N1x-afl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **5+ años de experiencia** en Soporte Técnico y Mesa de Ayuda  
+🎯 Especializado en **administración de servidores, redes e infraestructura Linux**  
+🚀 Buscando crecer profesionalmente en infraestructura IT
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Técnico
+
+### Sistemas Operativos
+- 🐧 **Linux** (Debian, Ubuntu, CentOS)
+- 🪟 **Windows** (Desktop & Server)
+
+### Virtualización
+- ⚡ VMware ESXi
+- 🖥️ VMware Workstation
+- 📦 VirtualBox
+- 🔧 Proxmox
+
+### Monitoreo & Backups
+- 📊 Zabbix
+- 📈 Grafana
+- 💾 Veeam Backup & Replication
+
+### Herramientas & Skills
+- 🔐 SSH & Terminal Linux
+- 🛠️ Reparación y mantenimiento de equipos
+- ⚙️ Instalación y configuración de software
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- 🐳 Docker & contenedores
+- ☸️ Kubernetes
+- 🤖 Automatización con Ansible
+- 🔒 Seguridad en infraestructura
+
+---
+
+## 💼 Experiencia
+
+✅ Soporte Técnico & Mesa de Ayuda  
+✅ Administración de infraestructura virtualizada  
+✅ Mantenimiento preventivo y correctivo de equipos  
+✅ Configuración de sistemas de backup  
+✅ Monitoreo de servicios con Zabbix y Grafana
+
+---
+
+## 🌟 Aptitudes
+
+- 👥 Trabajo en equipo
+- 🔍 Resolución de problemas
+- 📖 Aprendizaje continuo
+- 🎯 Orientación al cliente
+- ⚡ Proactivo
+
+---
+
+## 📫 Contacto
+
+- 🌐 [Felipe Soluciones IT] - https://felipe-soluciones-it.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/felipeloaizar/
+- 📧 Email: feloaiza@outlook.com
+
+---
