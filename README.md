@@ -34,9 +34,8 @@
 
 - 🐳 Docker & contenedores
 - ☸️ Kubernetes
-- 🤖 Automatización con Ansible
 - 🔒 Seguridad en infraestructura
-
+- 👁️ Ciberseguridad y Hacking Etico
 ---
 
 ## 💼 Experiencia
