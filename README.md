@@ -60,7 +60,7 @@
 
 ## 📫 Contacto
 
-- 🌐 [Felipe Soluciones IT] - https://felipe-soluciones-it.vercel.app
+- 🌐 [Felipe Soluciones IT] - https://soluciones-it.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/felipeloaizar/
 - 📧 Email: feloaiza@outlook.com
 
