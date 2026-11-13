@@ -1,67 +1,56 @@
-# 👋 ¡Hola! Soy Técnico en Sistemas Informáticos
+# 👋 Hola, soy Felipe Loaiza
 
-💻 **5+ años de experiencia** en Soporte Técnico y Mesa de Ayuda  
-🎯 Especializado en **administración de servidores, redes e infraestructura Linux**  
-🚀 Buscando crecer profesionalmente en infraestructura IT
-
----
-
-## 🛠️ Stack Técnico
-
-### Sistemas Operativos
-- 🐧 **Linux** (Debian, Ubuntu, CentOS)
-- 🪟 **Windows** (Desktop & Server)
-
-### Virtualización
-- ⚡ VMware ESXi
-- 🖥️ VMware Workstation
-- 📦 VirtualBox
-- 🔧 Proxmox
-
-### Monitoreo & Backups
-- 📊 Zabbix
-- 📈 Grafana
-- 💾 Veeam Backup & Replication
-
-### Herramientas & Skills
-- 🔐 SSH & Terminal Linux
-- 🛠️ Reparación y mantenimiento de equipos
-- ⚙️ Instalación y configuración de software
+**Técnico en Sistemas · Soporte IT, Redes e Infraestructura**
+Más de 8 años resolviendo incidentes, manteniendo redes corporativas y armando infraestructura que no se cae (o que se levanta rápido cuando se cae 😅).
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 🔧 Qué hago
 
-- 🐳 Docker & contenedores
-- ☸️ Kubernetes
-- 🔒 Seguridad en infraestructura
-- 👁️ Ciberseguridad y Hacking Etico
----
-
-## 💼 Experiencia
-
-✅ Soporte Técnico & Mesa de Ayuda  
-✅ Administración de infraestructura virtualizada  
-✅ Mantenimiento preventivo y correctivo de equipos  
-✅ Configuración de sistemas de backup  
-✅ Monitoreo de servicios con Zabbix y Grafana
+- 🌐 Administración de redes **LAN/WAN** y accesos remotos por **VPN**
+- 🪟 Gestión de identidades con **Active Directory** y soporte de **Microsoft 365 / Exchange**
+- 🎫 Gestión de tickets bajo **SLA** en entornos Windows corporativos
+- 🖥️ Virtualización y backups: **Proxmox, VMware ESXi, Veeam**
+- 📊 Monitoreo con **Zabbix, Grafana y Wazuh**
 
 ---
 
-## 🌟 Aptitudes
+## 🧰 Stack
 
-- 👥 Trabajo en equipo
-- 🔍 Resolución de problemas
-- 📖 Aprendizaje continuo
-- 🎯 Orientación al cliente
-- ⚡ Proactivo
+| Área | Tecnologías |
+|---|---|
+| **Sistemas** | Linux (Debian, Ubuntu), Windows Desktop & Server |
+| **Redes** | MikroTik, FortiGate, VLANs, VPN, WAN/LAN |
+| **Virtualización** | Proxmox, VMware ESXi / Workstation, VirtualBox |
+| **Monitoreo & Backup** | Zabbix, Grafana, Wazuh, Veeam B&R |
+| **Seguridad** | Wazuh (SIEM), hardening básico, hacking ético |
+
+---
+
+## 🏠 Homelab y proyectos
+
+- **Homelab con Proxmox**: VMs y contenedores, red segmentada y monitoreo → [repo/doc]
+- **Laboratorio Wazuh (SIEM)** en Docker con agentes en distintos hosts → [repo/doc]
+- **[Otro proyecto que quieras mostrar]** → [link]
+
+---
+
+## 🎓 Formación
+
+- Multicloud Network Associate (2025)
+- Bootcamp SOC Nivel 1 (2024)
+- Ethical Hacking
+
+---
+
+## 📚 Aprendiendo ahora
+
+🐳 Docker · ☸️ Kubernetes · 🔒 Seguridad en infraestructura
 
 ---
 
 ## 📫 Contacto
 
-- 🌐 [Felipe Soluciones IT] - https://soluciones-it.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/felipeloaizar/
-- 📧 Email: feloaiza@outlook.com
-
----
+🌐 [Felipe Soluciones IT](https://soluciones-it.vercel.app/) ·
+💼 [LinkedIn](https://www.linkedin.com/in/felipeloaizar/) ·
+📧 feloaiza@outlook.com
