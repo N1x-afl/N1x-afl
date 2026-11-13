@@ -20,7 +20,7 @@ Más de 8 años resolviendo incidentes, manteniendo redes corporativas y armando
 | Área | Tecnologías |
 |---|---|
 | **Sistemas** | Linux (Debian, Ubuntu), Windows Desktop & Server |
-| **Redes** | MikroTik, FortiGate, VLANs, VPN, WAN/LAN |
+| **Redes** | FortiGate, MikroTik, VLANs, VPN, WAN/LAN |
 | **Virtualización** | Proxmox, VMware ESXi / Workstation, VirtualBox |
 | **Monitoreo & Backup** | Zabbix, Grafana, Wazuh, Veeam B&R |
 | **Seguridad** | Wazuh (SIEM), hardening básico, hacking ético |
@@ -35,11 +35,19 @@ Más de 8 años resolviendo incidentes, manteniendo redes corporativas y armando
 
 ---
 
-## 🎓 Formación
+## 🎓 Certificaciones
 
+**Fortinet**
+- NSE 1, NSE 2 y NSE 3 · Network Security Expert (2026)
+
+**Cisco**
+- Black Belt: Secure Networking · Security Essentials · One Cisco · Splunk 101 · AI Fundamentals (2026)
+
+**Otras**
 - Multicloud Network Associate (2025)
 - Bootcamp SOC Nivel 1 (2024)
 - Ethical Hacking
+- [Las que encuentres 😄]
 
 ---
 
